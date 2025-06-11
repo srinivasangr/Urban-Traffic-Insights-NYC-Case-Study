@@ -1,6 +1,6 @@
 # 🚗 Motor Vehicle Collisions in NYC (2012–2023)
 ---
-![Motor Vehicle Collissions NYC](figure.png)
+![Motor Vehicle Collissions NYC](Figure.png)
 ## 📌 Objective
 Analyze and visualize motor vehicle collisions in New York City from 2012 to 2023 to:
 - Identify major contributing factors to accidents.
